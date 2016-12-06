@@ -1,0 +1,375 @@
+﻿    body{
+            background-color: #10163C;
+            
+        }
+        #page{
+            background-color: #fff;
+            width: 905px;
+            height: 1200px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 150px;
+        }
+        #home-page{
+            background-color: #fff;
+            width: 905px;
+            height: 900px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 150px;
+        }
+        #about-page{
+            background-color: #fff;
+            width: 905px;
+            height: 1100px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 150px;
+        }
+        img{
+
+        }
+        #support-page{
+            background-color: #fff;
+            width: 905px;
+            height: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 150px;
+        }
+        #resources-page{
+            background-color: #fff;
+            width: 905px;
+            height: 1000px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 150px;
+        }
+        #tech-page{
+            background-color: #fff;
+            width: 905px;
+            height: 1000px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 150px;
+        }
+        
+        #myNav{              
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: -100px;
+            width: 865px;
+            height: 35px;
+            background-image: -webkit-linear-gradient(top, #4d66a3, #23418a);
+            background-image:    -moz-linear-gradient(top, #4d66a3, #23418a);
+            background-image:     -ms-linear-gradient(top, #4d66a3, #23418a);
+            background-image:      -o-linear-gradient(top, #4d66a3, #23418a);
+            background-image:         linear-gradient(top, #4d66a3, #23418a);
+        }
+        #myNav li{
+            display:inline;
+            border-bottom: none;                         
+        }
+        #myNav li a{
+            color:#fff;
+            padding: 1px 23px 15px 15px;
+        }
+        #myNav li a:hover{  
+                    
+            background-image: -webkit-linear-gradient(top, #0F50CE, #0C1A8B); 
+            background-image:    -moz-linear-gradient(top, #0F50CE, #0C1A8B); 
+            background-image:     -ms-linear-gradient(top, #0F50CE, #0C1A8B); 
+            background-image:      -o-linear-gradient(top, #0F50CE, #0C1A8B); 
+            background-image:         linear-gradient(top, #0F50CE, #0C1A8B);
+        }
+        #logo{
+           
+        }
+        .left-nav{
+                list-style-type: none;                
+                padding: 0px 5px;
+                position: absolute;
+                font-size: 14px;
+                line-height: 1.7;
+                padding: 3px;
+                font: 90% Verdana,Lucida,Helvetica,Arial,sans-serif,"Lucida Grande";
+        }
+        header{
+            width: 905px;
+            height:30px;
+            margin-left:auto;
+            margin-right:auto;
+         
+        }
+        #heading{
+            margin-top: -16px;
+        }
+        #slide{
+            float: right;
+            display: block;
+            position: relative;
+        }
+       
+        a{          
+            text-decoration: none;
+            color:#316BB5;
+        }  
+        a:hover{
+            color: #75ad0a;
+        }
+        .the-left-nav{
+           border-bottom: 0.1em solid #c9d5dd;
+           
+        }
+        #slide-title{
+            float: right;
+            padding: 0px 65px 0px 4px;
+            margin-bottom: 2px;
+            border-bottom: 1px solid #8db0b7;
+            position: relative;
+            color: #000066;
+            font-size: 18px;
+            font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, "Myriad Pro", Myriad, Geneva, Arial, "Lucida Grande", sans-serif;
+            font-weight: Normal;
+        }
+        #orange-buttons{
+            float: right;
+            margin-right: 300px;
+
+        }
+        #request{
+                margin: 0px -4px;
+        }
+        #slide-image-with-paragraph{
+
+        }
+        #slide-paragraph{
+                float: right;
+                width: 650px;
+                font: 80% Verdana,Lucida,Helvetica,Arial,sans-serif,"Lucida Grande";
+}
+        .link-style{
+            color: #316BB5;
+            font: 90% Verdana,Lucida,Helvetica,Arial,sans-serif,"Lucida Grande";
+            border-bottom: 0.1em solid #ccc;
+
+        }
+        .globe{
+            margin-bottom: -4px;
+        }
+        #fall{
+            color: #990000;
+            font-size: 1em;
+        }
+        #unless{
+            color: #436976;
+            font-size: 1em;
+            font-weight:bold;
+        }
+        .home-ul{
+            list-style-type: square;
+            font: 90% Verdana,Lucida,Helvetica,Arial,sans-serif,"Lucida Grande";
+            font-weight: bold;
+        }
+        #related-content{
+            font: 90% Verdana,Lucida,Helvetica,Arial,sans-serif,"Lucida Grande";
+
+        }
+        #my-content-box{
+            width: 650px;
+            float: right;
+            padding: 10px;
+        }
+        #my-text-box{
+            float:right;
+            width:630px;
+            height:91px;
+            border-radius:5px;
+            box-shadow: -1px 1px 9px #ccc;
+            background-color: #f7ffcf;
+            padding: 10px;
+            color: #333333;
+            font: 90% Verdana,Lucida,Helvetica,Arial,sans-serif,"Lucida Grande";
+
+        }
+       
+        .the-cuny-logo{
+            float: right;
+            margin: -70px -170px;
+        }
+        .top-right-nav{            
+            list-style-type: none;
+            margin: -5px 0px 0px 600px;
+            font: 90% Verdana,Lucida,Helvetica,Arial,sans-serif,"Lucida Grande";
+            font-size: 11px;
+            
+        }
+        .top-right-nav li{
+            display: inline;
+            color: #c7d3fe;
+        }
+        .top-right-nav li a{
+            display: inline;
+            color: #c7d3fe;
+        }
+        .top-right-nav li a:hover{
+            display: inline;
+            color: #FF9933;
+        }
+        
+       .email-print-buttons{
+           width: 250px;
+           margin: 15px -850px 0px 0px;
+           float: right;
+       }
+       .email-print-buttons-about{
+           margin: -29px 0px 0px 600px;
+       }
+       
+        #foot{
+            color: #fff;           
+            text-align: center;
+            width: 560px;
+            margin-left: auto;
+            margin-right: auto;
+            font-size: 15px;
+        }
+       
+        #my-foot a{
+            color: #fff;
+        }
+        #my-foot a:hover{
+            color: #75ad0a;
+        }
+        /*about-us-css*/
+        #about-us-box{
+            width: 650px;
+            float: right;
+        }
+        #about-title{
+            border-bottom: 1px solid #8db0b7;
+            width: 640px;
+            color: #092668;
+            font-size: 18px;
+            font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, "Myriad Pro", Myriad, Geneva, Arial, "Lucida Grande", sans-serif;
+            font-weight: normal;
+        }
+        #about-paragraph{
+            margin-top: -20px;
+            font: 90% Verdana,Lucida,Helvetica,Arial,sans-serif,"Lucida Grande";
+            font-size: 80%;
+        }
+        #about-support{
+            color: #205c90;
+            border-bottom: 0.1em solid #ccc;            
+            font:Verdana,Lucida,Helvetica,Arial,sans-serif,"Lucida Grande";
+            width: 68px;
+        }
+        #about-support-paragraph{
+            border-bottom: 1px solid #8db0b7;
+        }
+        #images{
+
+        }
+        .my-flickr-images{
+            width: 500px;
+            height: 500px;
+            float: right;
+            margin-right: 100px;
+        }
+        .sub-nav{
+            background-color: #F3E9E9;
+            margin-left: 20px;
+            border-bottom: 0.1em solid #c9d5dd;
+            padding: 3px;
+            font: 90% Verdana,Lucida,Helvetica,Arial,sans-serif,"Lucida Grande";
+        }
+        .active-link{
+            background-image: -webkit-linear-gradient(top, #FFF8C5, #FFD9A6); 
+            background-image:    -moz-linear-gradient(top, #FFF8C5, #FFD9A6); 
+            background-image:     -ms-linear-gradient(top, #FFF8C5, #FFD9A6); 
+            background-image:      -o-linear-gradient(top, #FFF8C5, #FFD9A6); 
+            background-image:         linear-gradient(top, #FFF8C5, #FFD9A6);
+            margin-left: 20px;
+       }
+        .active-about{
+            background-image: -webkit-linear-gradient(top, #FFF8C5, #FFD9A6); 
+            background-image:    -moz-linear-gradient(top, #FFF8C5, #FFD9A6); 
+            background-image:     -ms-linear-gradient(top, #FFF8C5, #FFD9A6); 
+            background-image:      -o-linear-gradient(top, #FFF8C5, #FFD9A6); 
+            background-image:         linear-gradient(top, #FFF8C5, #FFD9A6);
+            
+       }
+       
+        #main-content-box{
+            padding: 10px;
+        }
+        #support-title{
+            border-bottom: 1px solid #8db0b7;
+            width: 640px;
+            color: #092668;
+            font-size: 18px;
+            font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, "Myriad Pro", Myriad, Geneva, Arial, "Lucida Grande", sans-serif;
+            font-weight: normal;
+
+        }
+        .support-paragraph{
+            margin-top: -20px;
+            font: 90% Verdana,Lucida,Helvetica,Arial,sans-serif,"Lucida Grande";
+            font-size: 80%;
+
+        }
+        #support-box{
+            width: 650px;
+            float: right;
+            border-bottom: 1px solid #8CACBB;
+        }
+
+        #resources-box{
+            width: 650px;
+            float: right;
+        }
+        .resources-paragraph{
+
+        }
+        #resources-title{
+            color: #000066;
+            font-weight: Normal;
+            font-size: 18px;
+            font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, "Myriad Pro", Myriad, Geneva, Arial, "Lucida Grande", sans-serif;
+            border-bottom: 1px solid #8db0b7;
+        }
+        .resources-bullets{
+            list-style-type: square;
+        }
+        #software{
+            color: #990000;
+            font-size: 1em;            
+        }
+        #links{
+            color: #990000;
+            font-size: 1em;
+        }
+
+        #technicalinformation-box{
+            width: 650px;
+            float: right;
+        }
+        #technicalinformation-title{
+            color: #000066;
+            font-weight: Normal;
+            font-size: 18px;
+            font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, "Myriad Pro", Myriad, Geneva, Arial, "Lucida Grande", sans-serif;
+            border-bottom: 1px solid #8db0b7;
+        }
+        #technical-information-title-two{
+            color: #990000;
+            font-size: 1em;
+        }
+        #bottom-titles{
+            color: #436976;
+            font-size: 1em;
+        }
+        .technicalinformation-bullets{
+            list-style-type: square;
+        }
